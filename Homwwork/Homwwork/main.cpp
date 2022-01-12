@@ -16,11 +16,11 @@ int main()
 		{
 			arr[Index] = i;
 
-			//cout << arr[Index] << endl; 
+			cout << arr[Index] << endl; 
 			++Index;
 		}
 		if (Index >= arrIndex) break;
-		i++;
+		++i;
 	}
 
 	return 0;
