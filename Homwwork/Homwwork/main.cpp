@@ -17,7 +17,7 @@ int main()
 			arr[Index] = i;
 
 			//cout << arr[Index] << endl; 
-			++Index;
+			Index++;
 		}
 		if (Index >= arrIndex) break;
 		i++;
