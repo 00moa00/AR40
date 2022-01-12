@@ -20,7 +20,7 @@ int main()
 			++Index;
 		}
 		if (Index >= arrIndex) break;
-		++i;
+		i++;
 	}
 
 	return 0;
